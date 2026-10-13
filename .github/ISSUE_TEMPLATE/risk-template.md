@@ -21,3 +21,7 @@ adversely impacting [ASSET], thereby resulting in [CONSEQUENCE].
 
 What we will do if the risk materializes, including schedule and
 cost impact estimates.
+
+## Estimated Phase of Retirement
+
+Project phase or MM/YYYY
